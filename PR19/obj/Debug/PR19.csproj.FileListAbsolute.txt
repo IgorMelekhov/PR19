@@ -1,0 +1,23 @@
+C:\Users\79537\source\repos\PR19\PR19\bin\Debug\PR19.exe.config
+C:\Users\79537\source\repos\PR19\PR19\bin\Debug\PR19.exe
+C:\Users\79537\source\repos\PR19\PR19\bin\Debug\PR19.pdb
+C:\Users\79537\source\repos\PR19\PR19\obj\Debug\PR19.csproj.AssemblyReference.cache
+C:\Users\79537\source\repos\PR19\PR19\obj\Debug\PR19.Form2.resources
+C:\Users\79537\source\repos\PR19\PR19\obj\Debug\PR19.Properties.Resources.resources
+C:\Users\79537\source\repos\PR19\PR19\obj\Debug\PR19.csproj.GenerateResource.cache
+C:\Users\79537\source\repos\PR19\PR19\obj\Debug\PR19.csproj.CoreCompileInputs.cache
+C:\Users\79537\source\repos\PR19\PR19\obj\Debug\PR19.exe
+C:\Users\79537\source\repos\PR19\PR19\obj\Debug\PR19.pdb
+C:\Users\79537\source\repos\PR19\PR19\obj\Debug\PR19.Form1.resources
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка\PR19\bin\Debug\PR19.exe.config
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка\PR19\bin\Debug\PR19.exe
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка\PR19\bin\Debug\PR19.pdb
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка\PR19\obj\Debug\PR19.csproj.AssemblyReference.cache
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка\PR19\obj\Debug\PR19.csproj.SuggestedBindingRedirects.cache
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка\PR19\obj\Debug\PR19.Form1.resources
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка\PR19\obj\Debug\PR19.Form2.resources
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка\PR19\obj\Debug\PR19.Properties.Resources.resources
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка\PR19\obj\Debug\PR19.csproj.GenerateResource.cache
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка\PR19\obj\Debug\PR19.csproj.CoreCompileInputs.cache
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка\PR19\obj\Debug\PR19.exe
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка\PR19\obj\Debug\PR19.pdb
